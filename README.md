@@ -31,5 +31,11 @@ What doesn't work:
 - walking category tree
 - article classification is hacky
 
+Requirements:
+
+- python3 
+- jq
+- stuff in requirements.txt
+
 If you're interested in helping mail me at polm@dampfkraft.com or file an issue
 or PR.
