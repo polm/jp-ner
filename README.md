@@ -6,7 +6,7 @@ You can use the Makefile to generate a sample NER training file. Note that it
 will download and extract Japanese Wikipedia, so it will need ~12GB of disk
 space.
 
-Inspiration for this approach is from [Nothman et all
+Inspiration for this approach is from [Nothman et al
 2013](https://www.sciencedirect.com/science/article/pii/S0004370212000276).
 There are followup papers to this that should be checked for ideas.
 
