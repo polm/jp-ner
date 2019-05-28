@@ -74,7 +74,6 @@ for line in fileinput.input():
         links = doc.find_all('a')
         ents = []
         for link in links:
-            #TODO: collect all entities in the sentence to mark them all up
             dest = get_url_tail(link)
             etype = get_entity_type(dest)
             if not etype: continue
