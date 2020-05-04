@@ -1,3 +1,5 @@
+**Note: This was abandoned since the [GSD corpus](https://universaldependencies.org/treebanks/ja_gsd/index.html) included NER data.**
+
 # jp-ner
 
 There wasn't a good NER corpus for Japanese so I'm making one.
